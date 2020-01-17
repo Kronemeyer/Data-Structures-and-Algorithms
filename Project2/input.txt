@@ -1,0 +1,4 @@
+a+a=bc
+ab+bc=bcb
+ab+bb=aa
+base+ball=games
